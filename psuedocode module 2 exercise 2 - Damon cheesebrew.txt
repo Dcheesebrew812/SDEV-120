@@ -1,0 +1,9 @@
+start
+
+input account balance
+input add fee if overdrawn .1% of tota and - 5 dollars for each overdrawn 
+output new account balance is total balance  - .1% of total + 5 dollars = new account balance
+output overdrawn fee
+output new total balance
+
+stop
