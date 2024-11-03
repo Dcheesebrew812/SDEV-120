@@ -1,0 +1,9 @@
+start
+declirations calculate interior by multiplying height width depth by 1728
+input height
+input length
+input depth
+calculate height * lenght * Depth / 1728 = 
+output total square feet
+stop
+
